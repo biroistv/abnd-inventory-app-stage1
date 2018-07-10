@@ -4,7 +4,7 @@ This android application is a simple database manager app without any user inter
 
 ## How to use
 
-The app communicate a database. Basicly is has two method, a insertData and a queryDate. 
+The app communicate a database. Basicly is has two method, a insertData and a queryData. 
 
 ### insertData
 
