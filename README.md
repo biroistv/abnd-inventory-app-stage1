@@ -1,6 +1,6 @@
 # Inventory App Stage-1
 
-This android application is a simple database manager app without any use interface. The application is part of the "**Udacity Android Basic Nanodegre** - _(v3)Inventory App, Stage 1_" project.
+This android application is a simple database manager app without any user interface. The application is part of the "**Udacity Android Basic Nanodegre** - _(v3)Inventory App, Stage 1_" project.
 
 ## How to use
 
